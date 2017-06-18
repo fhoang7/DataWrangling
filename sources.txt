@@ -1,0 +1,6 @@
+Sources:
+
+CSV to SQL: https://discussions.udacity.com/t/upload-my-csv-files-sqlite/190795/15
+OpenStreetMap Wiki: https://wiki.openstreetmap.org/wiki/Main_Page
+Github: https://github.com/pratyush19/Udacity-Data-Analyst-Nanodegree/tree/master/P3-OpenStreetMap-Wrangling-with-SQL
+	https://github.com/j450h1/P3-Data-Wrangling-with-MongoDB/blob/master/report.pdf

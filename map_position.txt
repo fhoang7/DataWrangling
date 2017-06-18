@@ -1,0 +1,4 @@
+https://mapzen.com/data/metro-extracts/metro/san-francisco-bay_california/
+
+Reason: I attend school in the area, so I have some familiarity with the area which I would expect to help me audit and clean the data set.  
+Description: San Francisco Bay Area comprises of San Francisco, Oakland, Berkeley, and some other small cities all of which are comprised of a diverse offering of places to go/visit/attend. 
